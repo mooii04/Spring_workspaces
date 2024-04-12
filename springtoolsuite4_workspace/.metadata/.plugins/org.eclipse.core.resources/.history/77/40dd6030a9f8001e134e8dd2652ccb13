@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hermandad de la Candelaria</title>
+    <!-- Bootstrap CSS -->
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+
+    <style>
+        .circle {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 100px;
+            width: 150px;
+            height: 150px;
+            margin: 0 auto;
+            background-color: #E1E1E1;
+        }
+
+        .circle h4 {
+            margin-top: 0.5rem;
+        }
+
+        .circle img {
+            width: 80px;
+            height: 80px;
+        }
+
+        footer {
+            background-color: #242f5c;
+            color: #ffffff;
+        }
+
+        #iconos div{
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="bg-white text-center py-2 px-4">
+        <div class="container">
+            <h1 class="mb-4">Hermandad de la Candelaria</h1>
+            <img src="../img/EscudoCandelaria.png" alt="Escudo de la Hermandad" class="img-fluid mx-auto d-block mb-4"
+                style="max-width: 200px;">
+            <nav>
+                <ul class="nav justify-content-center">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link text-blue dropdown-toggle" href="#" id="hermandadDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Hermandad de la Candelaria
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="hermandadDropdown">
+                            <a class="dropdown-item" href="../html/historia.html">Historia</a>
+                            <a class="dropdown-item" href="../html/reglasyescudo.html">Reglas y Escudo</a>
+                            <a class="dropdown-item" href="../html/sedeyparroquia.html">Sede / Parroquia</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link text-blue dropdown-toggle" href="#" id="titularesDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Titulares
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="titularesDropdown">
+                            <a class="dropdown-item" href="../html/nuestroPadre.html">Nuestro Padre Jesús de la
+                                Salud</a>
+                            <a class="dropdown-item" href="../html/mariasantisima.html">María Santísima de la
+                                Candelaria</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link text-blue dropdown-toggle" href="#" id="cofradiaDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Cofradía
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="cofradiaDropdown">
+                            <a class="dropdown-item" href="../html/pasocristo.html">Paso de Cristo</a>
+                            <a class="dropdown-item" href="../html/pasovirgen.html">Paso de Virgen</a>
+                            <a class="dropdown-item" href="../html/normasyreglamento.html">Normas y Reglamento</a>
+                            <a class="dropdown-item" href="../html/cultos.html">Cultos</a>
+                            <a class="dropdown-item" href="../html/itinerarioyhorarios.html">Itinerario y Horarios</a>
+                        </div>
+                    </li>
+                    <li class="nav-item"><a class="nav-link text-blue" href="#tienda">Tienda</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <video autoplay muted loop id="video-background" class="w-100">
+        <source src="../../../../Downloads/MariaSantisimaDeLaCandelariaPortada.mp4" type="video/mp4">
+    </video>
+
+    <main class="container my-5" id="iconos">
+        <div class="row justify-content-center mt-5">
+            <div class="col-md-6 text-center">
+                <img src="../img/BannerEscudo.png" class="img-fluid" alt="Banner">
+            </div>
+        </div>
+        <div class="row justify-content-center mt-3">
+            <div class="col-md-7 text-center">
+                <h2>Hermandad de la Candelaria</h2>
+                <h5>Real, Imperial, Ilustre y Fervorosa Hermandad del Santísimo Sacramento, Ánimas Benditas, Nuestra
+                    Señora del Subterráneo y Cofradía de Nazarenos de Nuestro Padre Jesús de la Salud, María Stma. de la
+                    Candelaria y Señor San Nicolás de Bari.</h5>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-2 text-center">
+                <a href="../html/accesohermanos.html" class="text-decoration-none">
+                    <div class="circle text-white text-center mb-3">
+                        <img src="../img/IconoHermanos.png" class="img-fluid mb-2">
+                    </div>
+                </a>
+                <h4>Acceso Hermanos</h4>
+            </div>
+            <div class="col-2 text-center">
+                <a href="../html/fichacofradia.html" class="text-decoration-none">
+                    <div class="circle text-white text-center mb-3">
+                        <img src="../img/IconoFichaCofradia.png" class="img-fluid mb-2">
+                    </div>
+                </a>
+                <h4>Ficha Tramos</h4>
+            </div>
+            <div class="col-2 text-center">
+                <a href="../html/altahermanos.html" class="text-decoration-none">
+                    <div class="circle text-white text-center mb-3">
+                        <img src="../img/IconoAltaHermanos.png" class="img-fluid mb-2">
+                    </div>
+                </a>
+                <h4>Alta Hermanos</h4>
+            </div>
+            <div class="col-2 text-center">
+                <a href="../html/noticias.html" class="text-decoration-none">
+                    <div class="circle text-white text-center mb-3">
+                        <img src="../img/IconoNoticias.png" class="img-fluid mb-2">
+                    </div>
+                </a>
+                <h4>Noticias</h4>
+            </div>
+            <div class="col-2 text-center">
+                <a href="../html/accesojuntas.html" class="text-decoration-none">
+                    <div class="circle text-white text-center mb-3">
+                        <img src="../img/IconoAccesoJunta.png" class="img-fluid mb-2">
+                    </div>
+                </a>
+                <h4>Acceso Junta</h4>
+            </div>
+        </div>
+    </main>
+
+    <footer class="text-center py-4">
+        <div class="container">
+            <h5><span><img src="../img/IconoSalud.png"></span> Derechos de autor © 2024 Hermandad de la Candelaria.
+                Todos los derechos reservados.<span><img src="../img/IconoLuz.png"></span></h5>
+        </div>
+    </footer>
+</body>
+
+</html>
