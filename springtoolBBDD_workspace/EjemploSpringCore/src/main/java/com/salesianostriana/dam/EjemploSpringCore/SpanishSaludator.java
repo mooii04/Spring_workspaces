@@ -2,6 +2,8 @@ package com.salesianostriana.dam.EjemploSpringCore;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
+import jakarta.annotation.PostConstruct;
+import jakarta.annotation.PreDestroy;
 
 @Service
 @Primary 	/* Esto lo que hacees que coge si hay alguna duda de que bean coger
@@ -13,5 +15,15 @@ public class SpanishSaludator implements Saludator{
 		// TODO Auto-generated method stub
 		System.out.println("Hola a todos los programadores de 1º DAM");
 	}
+	
+	@PostConstruct
+	void alComenzar() {
+		System.out.println("Método \"alComenzar\" anotado con @PostConstruct");
+	}
 
+	@PreDestroy
+	void antesDeDestruir() {
+		System.out.println("Método \"antesDeDestruir\" anotado con @PreDestroy");
+	}
+	
 }
