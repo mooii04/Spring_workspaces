@@ -1,8 +1,0 @@
-package com.salesianostriana.dam.ejemplo01holamundo;
-
-@Controller
-public class ControladrorSaludo {
-
-	
-	
-}
