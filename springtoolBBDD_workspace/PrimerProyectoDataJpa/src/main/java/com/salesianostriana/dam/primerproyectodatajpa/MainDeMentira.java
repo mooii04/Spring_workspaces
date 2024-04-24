@@ -16,6 +16,13 @@ public class MainDeMentira {
 	@PostConstruct
 	void ejecutar() {
 		repositorio.save(new Alumno("Moisés", "Dorado Gutiérrez", "moises.mdg04@gmail.com"));
+		repositorio.save(new Alumno("Pablo", "Dorado Gutiérrez", "pablo.pdg08@gmail.com"));
+		
+		//MALA manera de hacerlo
+		//repositorio.findAll().forEach(a -> System.out.println(a));
+		
+		//BUENA manera de hacerlo
+		repositorio.findAll().forEach(System.out::println);		
 	}
 	
 }

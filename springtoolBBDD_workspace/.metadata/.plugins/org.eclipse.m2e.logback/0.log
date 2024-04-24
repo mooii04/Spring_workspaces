@@ -1426,3 +1426,254 @@
 2024-04-23 14:26:08,928 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-04-23 14:26:08,931 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-04-23 14:26:08,936 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 12:44:13,123 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-24 12:46:48,035 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 12:46:48,055 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 12:46:48,060 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 12:47:24,433 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 12:47:24,437 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 12:47:24,440 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 12:47:37,848 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 12:47:37,851 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 12:47:37,854 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 12:52:48,174 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 12:52:48,178 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 12:52:48,180 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 12:52:49,560 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 12:52:49,563 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 12:52:49,566 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 12:53:38,624 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 12:53:38,627 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 12:53:38,630 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 12:53:53,311 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 12:53:53,318 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 12:53:53,323 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 12:54:09,343 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 12:54:09,346 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 12:54:09,351 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 12:54:15,881 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 12:54:15,885 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 12:54:15,887 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:04:11,050 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:04:11,054 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:04:11,057 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:04:20,353 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:04:20,356 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:04:20,359 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:04:30,686 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:04:30,689 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:04:30,692 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:04:42,192 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:04:42,195 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:04:42,198 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:05:00,051 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:05:00,057 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:05:00,060 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:05:13,547 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:05:13,551 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:05:13,554 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:08:41,859 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:08:41,863 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:08:41,866 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:08:50,444 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:08:50,449 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:08:50,451 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:08:56,854 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:08:56,857 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:08:56,859 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:09:10,701 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:09:10,704 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:09:10,708 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:13:23,868 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:13:23,871 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:13:23,874 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:13:35,070 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:13:35,073 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:13:35,076 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:13:52,973 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:13:52,976 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:13:52,978 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:14:17,395 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:14:17,399 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:14:17,403 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:14:58,293 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:14:58,298 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:14:58,301 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:14:59,365 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:14:59,367 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:14:59,369 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:15:58,514 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:15:58,517 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:15:58,520 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:16:06,985 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:16:06,988 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:16:06,990 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:16:46,125 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:16:46,129 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:16:46,133 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:17:00,546 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:17:00,550 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:17:00,552 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:17:03,553 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:17:03,556 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:17:03,559 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:17:32,478 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:17:32,482 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:17:32,485 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:17:53,963 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:17:53,967 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:17:53,969 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:18:18,859 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:18:18,862 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:18:18,864 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:19:33,180 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:19:33,183 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:19:33,185 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:20:29,178 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:20:29,181 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:20:29,185 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:21:08,752 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:21:08,755 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:21:08,757 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:21:10,751 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:21:10,754 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:21:10,756 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:32:31,154 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:32:31,159 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:32:31,161 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:32:37,013 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:32:37,019 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:32:37,021 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\PrimerProyectoDataJpa\src\test\resources
+2024-04-24 13:33:46,747 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:primerproyectodatajpa:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\pom.xml.
+2024-04-24 13:33:47,419 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:33:47,441 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:33:47,445 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:33:48,595 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:33:48,596 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:33:48,599 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:36:11,559 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:36:11,563 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:36:11,565 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:36:28,890 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:36:28,895 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:36:28,897 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:36:32,722 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:36:32,727 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:36:32,730 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:36:45,045 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:36:45,048 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:36:45,050 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:36:55,394 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:36:55,397 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:36:55,399 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:37:08,947 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:37:08,952 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:37:08,955 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:37:16,849 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:37:16,854 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:37:16,856 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:37:19,934 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:37:19,937 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:37:19,939 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:37:30,954 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:37:30,957 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:37:30,959 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:37:34,196 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:37:34,199 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:37:34,202 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:37:51,259 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:37:51,263 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:37:51,266 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:37:55,572 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:37:55,574 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:37:55,576 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:38:10,807 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:38:10,809 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:38:10,812 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:38:17,604 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:38:17,607 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:38:17,610 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:39:16,247 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:39:16,250 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:39:16,252 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:39:19,232 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:39:19,236 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:39:19,238 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:40:54,926 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:40:54,929 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:40:54,931 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:42:06,244 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:42:06,247 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:42:06,250 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:42:17,465 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:42:17,468 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:42:17,470 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:42:28,749 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:42:28,752 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:42:28,754 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:43:13,099 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:43:13,102 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:43:13,104 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:43:17,919 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:43:17,922 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:43:17,924 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:44:10,137 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:44:10,140 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:44:10,142 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:44:24,709 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:44:24,712 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:44:24,714 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:44:32,090 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:44:32,093 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:44:32,095 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:44:41,537 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:44:41,540 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:44:41,542 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:44:59,360 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:44:59,365 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:44:59,367 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:45:13,881 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:45:13,884 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:45:13,886 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:45:40,795 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:45:40,798 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:45:40,801 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:45:43,125 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:45:43,128 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:45:43,129 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:45:48,515 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:45:48,518 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:45:48,520 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:47:33,471 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:47:33,475 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:47:33,477 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 13:47:35,227 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 13:47:35,236 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 13:47:35,238 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 14:05:55,417 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 14:05:55,429 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 14:05:55,431 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 14:06:06,190 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 14:06:06,204 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 14:06:06,206 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 14:06:39,286 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 14:06:39,293 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 14:06:39,295 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 14:06:49,880 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 14:06:49,883 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 14:06:49,885 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 14:07:01,769 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 14:07:01,772 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 14:07:01,774 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 14:07:05,679 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 14:07:05,682 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 14:07:05,684 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 14:08:54,527 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 14:08:54,530 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 14:08:54,532 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 14:08:59,307 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 14:08:59,310 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 14:08:59,312 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources
+2024-04-24 14:11:24,776 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-04-24 14:11:24,780 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-24 14:11:24,782 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\ManyToOne\src\test\resources

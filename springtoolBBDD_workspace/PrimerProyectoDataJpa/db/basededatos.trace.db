@@ -376,3 +376,42 @@ Caused by: org.h2.mvstore.MVStoreException: The file is locked: C:/Users/dorado.
 	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:81)
 	at org.h2.mvstore.MVStore.<init>(MVStore.java:286)
 	... 55 more
+2024-04-24 13:10:19.930492+02:00 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "SELECT * FROM ALUMNADO ALUMNADO [*]ALUMNADO ALUMNADO ALUMNADO"
+Syntax error in SQL statement "SELECT * FROM ALUMNADO ALUMNADO [*]ALUMNADO ALUMNADO ALUMNADO"; SQL statement:
+SELECT * FROM ALUMNADO ALUMNADO ALUMNADO ALUMNADO ALUMNADO [42000-224]
+2024-04-24 13:14:24.588208+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; se esperaba "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; expected "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR 100, primary key (id)) [42001-224]
+2024-04-24 13:14:24.850218+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUMNADO" not found (this database is empty); SQL statement:
+insert into alumnado (apellidos,email,nombre,id) values (?,?,?,?) [42104-224]
+2024-04-24 13:15:03.929498+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; se esperaba "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; expected "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR 100, primary key (id)) [42001-224]
+2024-04-24 13:15:04.164860+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUMNADO" not found (this database is empty); SQL statement:
+insert into alumnado (apellidos,email,nombre,id) values (?,?,?,?) [42104-224]
+2024-04-24 13:16:03.662932+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; se esperaba "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; expected "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR 100, primary key (id)) [42001-224]
+2024-04-24 13:16:03.902501+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUMNADO" not found (this database is empty); SQL statement:
+insert into alumnado (apellidos,email,nombre,id) values (?,?,?,?) [42104-224]
+2024-04-24 13:16:11.920093+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; se esperaba "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; expected "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR 100, primary key (id)) [42001-224]
+2024-04-24 13:16:12.166743+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUMNADO" not found (this database is empty); SQL statement:
+insert into alumnado (apellidos,email,nombre,id) values (?,?,?,?) [42104-224]
+2024-04-24 13:18:11.083916+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; se esperaba "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"
+Syntax error in SQL statement "create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR [*]100, primary key (id))"; expected "(, ARRAY, INVISIBLE, VISIBLE, NOT NULL, DEFAULT, GENERATED, ON UPDATE, NOT NULL, DEFAULT ON NULL, SEQUENCE, SELECTIVITY, COMMENT, CONSTRAINT, COMMENT, PRIMARY KEY, UNIQUE, NOT NULL, CHECK, REFERENCES, ,, )"; SQL statement:
+create table alumnado (id bigint not null, apellidos varchar(255), email varchar(255), nombre VARCHAR 100, primary key (id)) [42001-224]
+2024-04-24 13:18:11.321509+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALUMNADO" not found (this database is empty); SQL statement:
+insert into alumnado (apellidos,email,nombre,id) values (?,?,?,?) [42104-224]
