@@ -20,11 +20,31 @@ public class MainDeMentira {
 	@PostConstruct
 	void ejecutar() {
 		
-		Curso c = new Curso ("1º DAM", "Miguel Campos DEV");
+		//Curso c = new Curso ("1º DAM", "Miguel Campos DEV");
+		
+		Curso c = Curso.builder()
+				.nombre("1º DAM")
+				.tutor("Miguel Campo DEV")
+				.build();
+		
 		cursoRepo.save(c);
 		
-		alumRepo.save(new Alumno("Moisés", "Dorado Gutiérrez", "moises.mdg04@gmail.com", c));
-		alumRepo.save(new Alumno("Pablo", "Dorado Gutiérrez", "pablo.pdg08@gmail.com", c));
+		Alumno a = Alumno.builder()
+			.nombre("Moisés")
+			.apellidos("Dorado Gutiérrez")
+			.email("dorado.gumoi24@triana.salesianos.edu")
+			.build();
+		
+		Alumno a2 = Alumno.builder()
+			.nombre("Pablo")
+			.apellidos("Dorado Gutiérrez")
+			.build();	
+			
+		//alumRepo.save(new Alumno("Moisés", "Dorado Gutiérrez", "moises.mdg04@gmail.com", c));
+		//alumRepo.save(new Alumno("Pablo", "Dorado Gutiérrez", "pablo.pdg08@gmail.com", c));
+		
+		alumRepo.save(a);
+		alumRepo.save(a2);
 		
 		//MALA manera de hacerlo
 		//repositorio.findAll().forEach(a -> System.out.println(a));

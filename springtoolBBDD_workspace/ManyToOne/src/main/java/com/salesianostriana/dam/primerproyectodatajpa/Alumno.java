@@ -7,12 +7,14 @@ import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import lombok.AllArgsConstructor;
+import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
 @NoArgsConstructor @AllArgsConstructor
 @Data
+@Builder
 public class Alumno {
 
 	@Id @GeneratedValue
@@ -25,6 +27,13 @@ public class Alumno {
 	@JoinColumn(foreignKey = @ForeignKey(name = "fk_alumno_curso"))
 	private Curso curso;
 
+	public Alumno(String nombre, String apellidos, String email) {
+		super();
+		this.nombre = nombre;
+		this.apellidos = apellidos;
+		this.email = email;
+	}
+	
 	public Alumno(String nombre, String apellidos, String email, Curso curso) {
 		super();
 		this.nombre = nombre;
