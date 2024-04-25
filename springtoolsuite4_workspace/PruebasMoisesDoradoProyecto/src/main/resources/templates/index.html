@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html xmls:th="https://www.thymeleaf.org">
+
+<head>
+
+</head>
+
+<body>
+	
+	<div class="container">
+		<div class="page-header">
+			<h1>Ejemplo para poner el footer de mi proyecto</h1>
+		</div>
+		<p class="lead">
+			Aquí tenemos el contenido del body y debajo podremos ver el footer añadido como fragmento
+		</p>
+	</div>
+	
+	<main class="container my-5" id="iconos">
+	        <div class="row justify-content-center mt-5">
+	            <div class="col-md-6 text-center">
+	                <img src="../img/BannerEscudo.png" class="img-fluid" alt="Banner">
+	            </div>
+	        </div>
+	        <div class="row justify-content-center mt-3">
+	            <div class="col-md-7 text-center">
+	                <h2>Hermandad de la Candelaria</h2>
+	                <h5>Real, Imperial, Ilustre y Fervorosa Hermandad del Santísimo Sacramento, Ánimas Benditas, Nuestra
+	                    Señora del Subterráneo y Cofradía de Nazarenos de Nuestro Padre Jesús de la Salud, María Stma. de la
+	                    Candelaria y Señor San Nicolás de Bari.</h5>
+	            </div>
+	        </div>
+	        <div class="row justify-content-center">
+	            <div class="col-2 text-center">
+	                <a href="../html/accesohermanos.html" class="text-decoration-none">
+	                    <div class="circle text-white text-center mb-3">
+	                        <img src="../img/IconoHermanos.png" class="img-fluid mb-2">
+	                    </div>
+	                </a>
+	                <h4>Acceso Hermanos</h4>
+	            </div>
+	            <div class="col-2 text-center">
+	                <a href="../html/fichacofradia.html" class="text-decoration-none">
+	                    <div class="circle text-white text-center mb-3">
+	                        <img src="../img/IconoFichaCofradia.png" class="img-fluid mb-2">
+	                    </div>
+	                </a>
+	                <h4>Ficha Tramos</h4>
+	            </div>
+	            <div class="col-2 text-center">
+	                <a href="../html/altahermanos.html" class="text-decoration-none">
+	                    <div class="circle text-white text-center mb-3">
+	                        <img src="../img/IconoAltaHermanos.png" class="img-fluid mb-2">
+	                    </div>
+	                </a>
+	                <h4>Alta Hermanos</h4>
+	            </div>
+	            <div class="col-2 text-center">
+	                <a href="../html/noticias.html" class="text-decoration-none">
+	                    <div class="circle text-white text-center mb-3">
+	                        <img src="../img/IconoNoticias.png" class="img-fluid mb-2">
+	                    </div>
+	                </a>
+	                <h4>Noticias</h4>
+	            </div>
+	            <div class="col-2 text-center">
+	                <a href="../html/accesojuntas.html" class="text-decoration-none">
+	                    <div class="circle text-white text-center mb-3">
+	                        <img src="../img/IconoAccesoJunta.png" class="img-fluid mb-2">
+	                    </div>
+	                </a>
+	                <h4>Acceso Junta</h4>
+	            </div>
+	        </div>
+	    </main>
+	
+	<footer th:replace="~{fragmentos/footer::pie}"></footer>
+	
+</body>
+
+</html>
