@@ -31,7 +31,7 @@ public class EmpleadoController {
 		model.addAttribute("empleado", empleado);
 		
 		//En este ejemplo sencillo se muestra la página con la información mandada
-		//el formulario al pulsar el boyón submit, no se guarda en la base de datos, 
+		//el formulario al pulsar el botón submit, no se guarda en la base de datos, 
 		//solo mostramos lo que se escribe en el formulario en otra página web
 		return "view";
 	

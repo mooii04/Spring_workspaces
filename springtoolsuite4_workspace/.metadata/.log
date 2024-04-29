@@ -3548,3 +3548,435 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+!SESSION 2024-04-29 10:04:30.573 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-04-29 10:04:49.469
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-29 10:04:49.686
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-29 10:05:00.042
+!MESSAGE Logback config file: C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-04-29 10:05:00.480
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-04-29 10:05:00.480
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-04-29 10:05:00.777
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-04-29 10:05:00.777
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-04-29 10:05:02.036
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.genuitec.eclipse.meexplorer/com.genuitec.eclipse.meexplorer.breadcrumb.e4.BreadCrumbContainer
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-04-29 10:05:06.675
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dorado.gumoi24_trian'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.306
+!MESSAGE Boot project ADDED: Ejemplo03BucleYSwitch
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.307
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.309
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.310
+!MESSAGE Boot project ADDED: EjemploFormulariosV1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.311
+!MESSAGE Boot project ADDED: EjemploFragmentos
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.312
+!MESSAGE Boot project ADDED: PruebasMoisesDoradoProyecto
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.313
+!MESSAGE Boot project ADDED: UD8E01HolaMundo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.315
+!MESSAGE Boot project ADDED: UD8E02OperacionesYCondiciones
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.317
+!MESSAGE Boot project ADDED: UD8E03BuclesYSwitch
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.319
+!MESSAGE Boot project ADDED: UD8E04Fragmentos
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.321
+!MESSAGE Boot project ADDED: ejemplo01holamundo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-04-29 10:05:08.567
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/dorado.gumoi24_trian/Desktop/Spring_workspaces/springtoolsuite4_workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1714377908566
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:05:08.567
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-04-29 10:05:08.586
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 7072
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:25:50.479
+!MESSAGE Classpath changed for project: serviciobase
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:25:50.479
+!MESSAGE Boot project ADDED: serviciobase
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:25:51.019
+!MESSAGE Classpath changed for project: serviciobase
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-04-29 10:37:49.342
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:50:42.147
+!MESSAGE Classpath changed for project: primerproyectodatajpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 10:50:42.148
+!MESSAGE Boot project ADDED: primerproyectodatajpa
+!SESSION 2024-04-29 11:54:13.912 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-04-29 11:54:45.350
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-29 11:54:45.600
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-29 11:55:36.301
+!MESSAGE Logback config file: C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-04-29 11:55:37.808
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-04-29 11:55:37.808
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-04-29 11:55:38.605
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-04-29 11:55:38.605
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-04-29 11:55:41.056
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.genuitec.eclipse.meexplorer/com.genuitec.eclipse.meexplorer.breadcrumb.e4.BreadCrumbContainer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-04-29 11:55:46.397
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/dorado.gumoi24_trian/Desktop/Spring_workspaces/springtoolsuite4_workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1714384546396
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:46.398
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-04-29 11:55:46.411
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 3004
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-04-29 11:55:48.445
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dorado.gumoi24_trian'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.224
+!MESSAGE Boot project ADDED: Ejemplo03BucleYSwitch
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.224
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.225
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.226
+!MESSAGE Boot project ADDED: EjemploFormulariosV1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.227
+!MESSAGE Boot project ADDED: EjemploFragmentos
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.228
+!MESSAGE Boot project ADDED: PruebasMoisesDoradoProyecto
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.228
+!MESSAGE Boot project ADDED: UD8E01HolaMundo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.229
+!MESSAGE Boot project ADDED: UD8E02OperacionesYCondiciones
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.229
+!MESSAGE Boot project ADDED: UD8E03BuclesYSwitch
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.230
+!MESSAGE Boot project ADDED: UD8E04Fragmentos
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.230
+!MESSAGE Boot project ADDED: ejemplo01holamundo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.231
+!MESSAGE Boot project ADDED: primerproyectodatajpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 11:55:50.231
+!MESSAGE Boot project ADDED: serviciobase
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-04-29 11:56:40.647
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2024-04-29 12:00:29.922 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-04-29 12:00:32.651
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-29 12:00:32.885
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-29 12:00:36.753
+!MESSAGE Logback config file: C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-04-29 12:00:37.156
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-04-29 12:00:37.156
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-04-29 12:00:37.460
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-04-29 12:00:37.460
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-04-29 12:00:38.527
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.genuitec.eclipse.meexplorer/com.genuitec.eclipse.meexplorer.breadcrumb.e4.BreadCrumbContainer
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-04-29 12:00:42.115
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dorado.gumoi24_trian'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.243
+!MESSAGE Boot project ADDED: Ejemplo03BucleYSwitch
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.244
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.248
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.254
+!MESSAGE Boot project ADDED: EjemploFormulariosV1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.261
+!MESSAGE Boot project ADDED: EjemploFragmentos
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.265
+!MESSAGE Boot project ADDED: PruebasMoisesDoradoProyecto
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.269
+!MESSAGE Boot project ADDED: UD8E01HolaMundo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-04-29 12:00:42.273
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/dorado.gumoi24_trian/Desktop/Spring_workspaces/springtoolsuite4_workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1714384842272
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.273
+!MESSAGE Boot project ADDED: UD8E02OperacionesYCondiciones
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.274
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.278
+!MESSAGE Boot project ADDED: UD8E03BuclesYSwitch
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.283
+!MESSAGE Boot project ADDED: UD8E04Fragmentos
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.287
+!MESSAGE Boot project ADDED: ejemplo01holamundo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.293
+!MESSAGE Boot project ADDED: primerproyectodatajpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:00:42.297
+!MESSAGE Boot project ADDED: serviciobase
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-04-29 12:00:42.797
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 11576
+!SESSION 2024-04-29 12:06:30.138 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-04-29 12:06:49.542
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-29 12:06:49.761
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-29 12:06:53.704
+!MESSAGE Logback config file: C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-04-29 12:06:54.106
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-04-29 12:06:54.106
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-04-29 12:06:54.388
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-04-29 12:06:54.388
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2024-04-29 12:06:55.565
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://com.genuitec.eclipse.meexplorer/com.genuitec.eclipse.meexplorer.breadcrumb.e4.BreadCrumbContainer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-04-29 12:06:59.105
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\dorado.gumoi24_trian\Downloads\sts-4.22.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.53.0.202403071323\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/dorado.gumoi24_trian/Desktop/Spring_workspaces/springtoolsuite4_workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1714385219104
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:06:59.106
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-04-29 12:06:59.110
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 1288
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-04-29 12:07:00.664
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dorado.gumoi24_trian'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.363
+!MESSAGE Boot project ADDED: Ejemplo03BucleYSwitch
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.363
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.364
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.365
+!MESSAGE Boot project ADDED: EjemploFormulariosV1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.365
+!MESSAGE Boot project ADDED: EjemploFragmentos
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.366
+!MESSAGE Boot project ADDED: PruebasMoisesDoradoProyecto
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.367
+!MESSAGE Boot project ADDED: UD8E01HolaMundo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.367
+!MESSAGE Boot project ADDED: UD8E02OperacionesYCondiciones
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.688
+!MESSAGE Boot project ADDED: UD8E03BuclesYSwitch
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.689
+!MESSAGE Boot project ADDED: UD8E04Fragmentos
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.690
+!MESSAGE Boot project ADDED: ejemplo01holamundo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.691
+!MESSAGE Boot project ADDED: primerproyectodatajpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:07:01.692
+!MESSAGE Boot project ADDED: serviciobase
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-04-29 12:15:24.039
+!MESSAGE Classpath changed for project: PruebasMoisesDoradoProyecto

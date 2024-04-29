@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html xmls:th="https://www.thymeleaf.org">
+
+<head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<title>Hermandad de la Candelaria</title>
+	
+</head>
+
+<body>
+	
+	<table>
+		<tr>
+			<td>Nombre:</td>
+			<td th:text="${hermano.nombre}"></td>
+		</tr>
+		
+		<tr>
+			<td>Apellidos:</td>
+			<td th:text="${hermano.apellidos}"></td>
+		</tr>
+			
+		<tr>
+			<td>Email:</td>
+			<td th:text="${hermano.email}"></td>
+		</tr>
+			
+	</table>
+	
+</body>
+
+</html>
