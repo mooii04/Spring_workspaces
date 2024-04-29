@@ -6,3 +6,4 @@ import com.salesianostriana.dam.pruebasmoisesdoradoproyecto.modelo.Hermano;
 public interface HermanoRepositorio extends JpaRepository<Hermano, Long>{
 
 }
+            

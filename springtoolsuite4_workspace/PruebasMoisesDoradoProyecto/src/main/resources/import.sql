@@ -10,3 +10,6 @@ insert into hermano (id, nombre, apellidos, email) values (9, 'Hunter', 'Kohlerm
 insert into hermano (id, nombre, apellidos, email) values (10, 'Cybill', 'O''Halligan', 'cohalligan9@smugmug.com');
 insert into hermano (id, nombre, apellidos, email) values (11, 'Tedda', 'Learoyd', 'tlearoyda@nifty.com');
 insert into hermano (id, nombre, apellidos, email) values (12, 'Stacee', 'Giocannoni', 'sgiocannonib@shinystat.com');
+
+
+ALTER SEQUENCE hermano_seq RESTART WITH (13);

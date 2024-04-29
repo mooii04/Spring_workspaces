@@ -32,9 +32,11 @@ public class HermanoControlador {
 	
 	@PostMapping ("/addHermano")
 	public String submit(@ModelAttribute("hermanoForm") Hermano hermano, Model model) {
-
+		
 		model.addAttribute("hermano", hermano);
-
+		
+		hermanoServicio.agregarBD(hermano);
+		
 		return "view";
 	}
 	
