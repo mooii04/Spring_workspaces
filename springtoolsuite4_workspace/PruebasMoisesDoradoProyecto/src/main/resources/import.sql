@@ -12,4 +12,4 @@ insert into hermano (id, nombre, apellidos, email) values (11, 'Tedda', 'Learoyd
 insert into hermano (id, nombre, apellidos, email) values (12, 'Stacee', 'Giocannoni', 'sgiocannonib@shinystat.com');
 
 
-ALTER SEQUENCE hermano_seq RESTART WITH (13);
+ALTER SEQUENCE hermano_seq RESTART WITH (63);

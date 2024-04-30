@@ -35,7 +35,7 @@ public class HermanoControlador {
 		
 		model.addAttribute("hermano", hermano);
 		
-		hermanoServicio.agregarBD(hermano);
+		hermanoServicio.save(hermano);
 		
 		return "view";
 	}
