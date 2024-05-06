@@ -4052,3 +4052,266 @@
 2024-05-03 19:16:54,993 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-05-03 19:16:54,997 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-05-03 19:16:55,006 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\moise\OneDrive\Escritorio\Spring_workspaces\springtoolsuite4_workspace\PruebasMoisesDoradoProyecto\src\test\resources
+2024-05-06 10:04:38,653 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-06 10:05:19,150 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemplo01holamundo:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\ejemplo01holamundo\pom.xml.
+2024-05-06 10:05:22,397 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemplo03bucleyswitch:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\Ejemplo03BucleYSwitch\pom.xml.
+2024-05-06 10:05:23,173 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemplocrudcompleto:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploCrudCompleto\pom.xml.
+2024-05-06 10:05:23,396 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemploformulariosv1:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFormulariosV1\pom.xml.
+2024-05-06 10:05:23,660 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemploformulariosv2:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFormulariosV2\pom.xml.
+2024-05-06 10:05:23,902 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemplofragmentos:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFragmentos\pom.xml.
+2024-05-06 10:05:24,117 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:pruebasmoisesdoradoproyecto:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\PruebasMoisesDoradoProyecto\pom.xml.
+2024-05-06 10:05:24,382 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e01holamundo:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E01HolaMundo\pom.xml.
+2024-05-06 10:05:24,555 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e02operacionesycondiciones:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E02OperacionesYCondiciones\pom.xml.
+2024-05-06 10:05:24,719 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e03buclesyswitch:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E03BuclesYSwitch\pom.xml.
+2024-05-06 10:05:25,048 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e04fragmentos:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E04Fragmentos\pom.xml.
+2024-05-06 10:05:25,260 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e06formularios2:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E06Formularios2\pom.xml.
+2024-05-06 10:05:25,584 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e07fechassinbd:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E07FechasSinBD\pom.xml.
+2024-05-06 10:05:25,838 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e08crudcompleto:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E08CRUDCompleto\pom.xml.
+2024-05-06 10:05:34,000 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E02OperacionesYCondiciones/src/main/java
+2024-05-06 10:05:34,002 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E02OperacionesYCondiciones/src/main/resources
+2024-05-06 10:05:34,003 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E02OperacionesYCondiciones/src/main/resources
+2024-05-06 10:05:34,004 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E02OperacionesYCondiciones/src/test/java
+2024-05-06 10:05:34,005 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E02OperacionesYCondiciones/src/test/resources
+2024-05-06 10:05:34,505 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploCrudCompleto/src/main/java
+2024-05-06 10:05:34,531 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploCrudCompleto/src/main/resources
+2024-05-06 10:05:34,532 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploCrudCompleto/src/main/resources
+2024-05-06 10:05:34,533 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploCrudCompleto/src/test/java
+2024-05-06 10:05:34,533 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploCrudCompleto/src/test/resources
+2024-05-06 10:05:35,175 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFormulariosV1/src/main/java
+2024-05-06 10:05:35,176 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV1/src/main/resources
+2024-05-06 10:05:35,177 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV1/src/main/resources
+2024-05-06 10:05:35,177 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFormulariosV1/src/test/java
+2024-05-06 10:05:35,189 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV1/src/test/resources
+2024-05-06 10:05:35,618 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E06Formularios2/src/main/java
+2024-05-06 10:05:35,619 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E06Formularios2/src/main/resources
+2024-05-06 10:05:35,620 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E06Formularios2/src/main/resources
+2024-05-06 10:05:35,622 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E06Formularios2/src/test/java
+2024-05-06 10:05:35,624 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E06Formularios2/src/test/resources
+2024-05-06 10:05:36,040 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFormulariosV2/src/main/java
+2024-05-06 10:05:36,041 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV2/src/main/resources
+2024-05-06 10:05:36,042 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV2/src/main/resources
+2024-05-06 10:05:36,042 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFormulariosV2/src/test/java
+2024-05-06 10:05:36,043 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV2/src/test/resources
+2024-05-06 10:05:36,466 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E01HolaMundo/src/main/java
+2024-05-06 10:05:36,466 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E01HolaMundo/src/main/resources
+2024-05-06 10:05:36,467 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E01HolaMundo/src/main/resources
+2024-05-06 10:05:36,468 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E01HolaMundo/src/test/java
+2024-05-06 10:05:36,468 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E01HolaMundo/src/test/resources
+2024-05-06 10:05:36,943 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E03BuclesYSwitch/src/main/java
+2024-05-06 10:05:36,943 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E03BuclesYSwitch/src/main/resources
+2024-05-06 10:05:36,944 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E03BuclesYSwitch/src/main/resources
+2024-05-06 10:05:36,945 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E03BuclesYSwitch/src/test/java
+2024-05-06 10:05:36,946 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E03BuclesYSwitch/src/test/resources
+2024-05-06 10:05:37,353 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PruebasMoisesDoradoProyecto/src/main/java
+2024-05-06 10:05:37,353 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PruebasMoisesDoradoProyecto/src/main/resources
+2024-05-06 10:05:37,354 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PruebasMoisesDoradoProyecto/src/main/resources
+2024-05-06 10:05:37,354 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PruebasMoisesDoradoProyecto/src/test/java
+2024-05-06 10:05:37,355 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PruebasMoisesDoradoProyecto/src/test/resources
+2024-05-06 10:05:37,713 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo01holamundo/src/main/java
+2024-05-06 10:05:37,714 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo01holamundo/src/main/resources
+2024-05-06 10:05:37,715 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo01holamundo/src/main/resources
+2024-05-06 10:05:37,715 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo01holamundo/src/test/java
+2024-05-06 10:05:37,716 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo01holamundo/src/test/resources
+2024-05-06 10:05:38,076 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E07FechasSinBD/src/main/java
+2024-05-06 10:05:38,076 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E07FechasSinBD/src/main/resources
+2024-05-06 10:05:38,077 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E07FechasSinBD/src/main/resources
+2024-05-06 10:05:38,077 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E07FechasSinBD/src/test/java
+2024-05-06 10:05:38,078 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E07FechasSinBD/src/test/resources
+2024-05-06 10:05:38,467 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFragmentos/src/main/java
+2024-05-06 10:05:38,467 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFragmentos/src/main/resources
+2024-05-06 10:05:38,468 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFragmentos/src/main/resources
+2024-05-06 10:05:38,468 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFragmentos/src/test/java
+2024-05-06 10:05:38,469 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFragmentos/src/test/resources
+2024-05-06 10:05:38,829 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejemplo03BucleYSwitch/src/main/java
+2024-05-06 10:05:38,830 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejemplo03BucleYSwitch/src/main/resources
+2024-05-06 10:05:38,830 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejemplo03BucleYSwitch/src/main/resources
+2024-05-06 10:05:38,831 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejemplo03BucleYSwitch/src/test/java
+2024-05-06 10:05:38,831 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejemplo03BucleYSwitch/src/test/resources
+2024-05-06 10:05:39,181 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E04Fragmentos/src/main/java
+2024-05-06 10:05:39,181 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E04Fragmentos/src/main/resources
+2024-05-06 10:05:39,182 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E04Fragmentos/src/main/resources
+2024-05-06 10:05:39,182 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E04Fragmentos/src/test/java
+2024-05-06 10:05:39,183 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E04Fragmentos/src/test/resources
+2024-05-06 10:05:39,528 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E08CRUDCompleto/src/main/java
+2024-05-06 10:05:39,529 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E08CRUDCompleto/src/main/resources
+2024-05-06 10:05:39,529 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E08CRUDCompleto/src/main/resources
+2024-05-06 10:05:39,530 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E08CRUDCompleto/src/test/java
+2024-05-06 10:05:39,530 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E08CRUDCompleto/src/test/resources
+2024-05-06 10:05:39,838 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 14 project(s) in 30 sec
+2024-05-06 10:05:40,652 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-05-06 10:05:44,388 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemplo03bucleyswitch:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\Ejemplo03BucleYSwitch\pom.xml.
+2024-05-06 10:05:44,735 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemplocrudcompleto:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploCrudCompleto\pom.xml.
+2024-05-06 10:05:44,848 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemploformulariosv1:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFormulariosV1\pom.xml.
+2024-05-06 10:05:44,962 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemploformulariosv2:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFormulariosV2\pom.xml.
+2024-05-06 10:05:45,075 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemplofragmentos:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFragmentos\pom.xml.
+2024-05-06 10:05:45,183 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:pruebasmoisesdoradoproyecto:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\PruebasMoisesDoradoProyecto\pom.xml.
+2024-05-06 10:05:45,292 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e01holamundo:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E01HolaMundo\pom.xml.
+2024-05-06 10:05:45,470 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e02operacionesycondiciones:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E02OperacionesYCondiciones\pom.xml.
+2024-05-06 10:05:45,583 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e03buclesyswitch:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E03BuclesYSwitch\pom.xml.
+2024-05-06 10:05:45,693 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e04fragmentos:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E04Fragmentos\pom.xml.
+2024-05-06 10:05:45,792 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e06formularios2:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E06Formularios2\pom.xml.
+2024-05-06 10:05:45,891 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e07fechassinbd:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E07FechasSinBD\pom.xml.
+2024-05-06 10:05:45,988 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ud8e08crudcompleto:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E08CRUDCompleto\pom.xml.
+2024-05-06 10:05:46,090 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.salesianostriana.dam:ejemplo01holamundo:0.0.1-SNAPSHOT @ C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\ejemplo01holamundo\pom.xml.
+2024-05-06 10:05:49,638 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejemplo03BucleYSwitch/src/main/java
+2024-05-06 10:05:49,638 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejemplo03BucleYSwitch/src/main/resources
+2024-05-06 10:05:49,639 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejemplo03BucleYSwitch/src/main/resources
+2024-05-06 10:05:49,639 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Ejemplo03BucleYSwitch/src/test/java
+2024-05-06 10:05:49,640 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Ejemplo03BucleYSwitch/src/test/resources
+2024-05-06 10:05:49,946 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploCrudCompleto/src/main/java
+2024-05-06 10:05:49,946 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploCrudCompleto/src/main/resources
+2024-05-06 10:05:49,947 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploCrudCompleto/src/main/resources
+2024-05-06 10:05:49,947 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploCrudCompleto/src/test/java
+2024-05-06 10:05:49,948 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploCrudCompleto/src/test/resources
+2024-05-06 10:05:50,259 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFormulariosV1/src/main/java
+2024-05-06 10:05:50,260 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV1/src/main/resources
+2024-05-06 10:05:50,260 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV1/src/main/resources
+2024-05-06 10:05:50,261 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFormulariosV1/src/test/java
+2024-05-06 10:05:50,261 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV1/src/test/resources
+2024-05-06 10:05:50,656 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFormulariosV2/src/main/java
+2024-05-06 10:05:50,657 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV2/src/main/resources
+2024-05-06 10:05:50,658 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV2/src/main/resources
+2024-05-06 10:05:50,658 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFormulariosV2/src/test/java
+2024-05-06 10:05:50,659 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFormulariosV2/src/test/resources
+2024-05-06 10:05:51,016 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFragmentos/src/main/java
+2024-05-06 10:05:51,017 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFragmentos/src/main/resources
+2024-05-06 10:05:51,018 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFragmentos/src/main/resources
+2024-05-06 10:05:51,018 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EjemploFragmentos/src/test/java
+2024-05-06 10:05:51,019 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EjemploFragmentos/src/test/resources
+2024-05-06 10:05:51,400 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PruebasMoisesDoradoProyecto/src/main/java
+2024-05-06 10:05:51,400 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PruebasMoisesDoradoProyecto/src/main/resources
+2024-05-06 10:05:51,401 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PruebasMoisesDoradoProyecto/src/main/resources
+2024-05-06 10:05:51,401 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /PruebasMoisesDoradoProyecto/src/test/java
+2024-05-06 10:05:51,402 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /PruebasMoisesDoradoProyecto/src/test/resources
+2024-05-06 10:05:51,758 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E01HolaMundo/src/main/java
+2024-05-06 10:05:51,759 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E01HolaMundo/src/main/resources
+2024-05-06 10:05:51,760 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E01HolaMundo/src/main/resources
+2024-05-06 10:05:51,761 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E01HolaMundo/src/test/java
+2024-05-06 10:05:51,762 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E01HolaMundo/src/test/resources
+2024-05-06 10:05:52,149 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E02OperacionesYCondiciones/src/main/java
+2024-05-06 10:05:52,150 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E02OperacionesYCondiciones/src/main/resources
+2024-05-06 10:05:52,150 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E02OperacionesYCondiciones/src/main/resources
+2024-05-06 10:05:52,151 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E02OperacionesYCondiciones/src/test/java
+2024-05-06 10:05:52,152 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E02OperacionesYCondiciones/src/test/resources
+2024-05-06 10:05:52,507 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E03BuclesYSwitch/src/main/java
+2024-05-06 10:05:52,507 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E03BuclesYSwitch/src/main/resources
+2024-05-06 10:05:52,508 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E03BuclesYSwitch/src/main/resources
+2024-05-06 10:05:52,508 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E03BuclesYSwitch/src/test/java
+2024-05-06 10:05:52,509 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E03BuclesYSwitch/src/test/resources
+2024-05-06 10:05:52,828 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E04Fragmentos/src/main/java
+2024-05-06 10:05:52,829 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E04Fragmentos/src/main/resources
+2024-05-06 10:05:52,830 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E04Fragmentos/src/main/resources
+2024-05-06 10:05:52,830 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E04Fragmentos/src/test/java
+2024-05-06 10:05:52,831 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E04Fragmentos/src/test/resources
+2024-05-06 10:05:53,160 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E06Formularios2/src/main/java
+2024-05-06 10:05:53,161 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E06Formularios2/src/main/resources
+2024-05-06 10:05:53,161 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E06Formularios2/src/main/resources
+2024-05-06 10:05:53,162 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E06Formularios2/src/test/java
+2024-05-06 10:05:53,162 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E06Formularios2/src/test/resources
+2024-05-06 10:05:53,477 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E07FechasSinBD/src/main/java
+2024-05-06 10:05:53,478 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E07FechasSinBD/src/main/resources
+2024-05-06 10:05:53,480 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E07FechasSinBD/src/main/resources
+2024-05-06 10:05:53,480 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E07FechasSinBD/src/test/java
+2024-05-06 10:05:53,481 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E07FechasSinBD/src/test/resources
+2024-05-06 10:05:53,874 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E08CRUDCompleto/src/main/java
+2024-05-06 10:05:53,874 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E08CRUDCompleto/src/main/resources
+2024-05-06 10:05:53,875 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E08CRUDCompleto/src/main/resources
+2024-05-06 10:05:53,875 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /UD8E08CRUDCompleto/src/test/java
+2024-05-06 10:05:53,876 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /UD8E08CRUDCompleto/src/test/resources
+2024-05-06 10:05:54,185 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo01holamundo/src/main/java
+2024-05-06 10:05:54,185 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo01holamundo/src/main/resources
+2024-05-06 10:05:54,186 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo01holamundo/src/main/resources
+2024-05-06 10:05:54,186 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejemplo01holamundo/src/test/java
+2024-05-06 10:05:54,187 [Worker-12: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ejemplo01holamundo/src/test/resources
+2024-05-06 10:05:55,179 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 14 poms: local refresh takes 0,00 sec, refresh facades takes 8,00 sec, update config takes 4,00 sec 
+2024-05-06 10:05:56,076 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:56,100 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2024-05-06 10:05:56,110 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\Ejemplo03BucleYSwitch\src\test\resources
+2024-05-06 10:05:56,841 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:56,860 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-06 10:05:56,863 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploCrudCompleto\src\test\resources
+2024-05-06 10:05:57,100 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:57,119 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-05-06 10:05:57,132 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFormulariosV1\src\test\resources
+2024-05-06 10:05:57,390 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:57,417 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-05-06 10:05:57,423 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFormulariosV2\src\test\resources
+2024-05-06 10:05:57,619 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:57,636 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-05-06 10:05:57,649 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFragmentos\src\test\resources
+2024-05-06 10:05:57,898 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:57,911 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2024-05-06 10:05:57,927 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\PruebasMoisesDoradoProyecto\src\test\resources
+2024-05-06 10:05:58,160 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:58,178 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:05:58,189 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E01HolaMundo\src\test\resources
+2024-05-06 10:05:58,428 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:58,447 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:58,459 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E02OperacionesYCondiciones\src\test\resources
+2024-05-06 10:05:58,732 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:58,754 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2024-05-06 10:05:58,779 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E03BuclesYSwitch\src\test\resources
+2024-05-06 10:05:59,001 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:59,021 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-05-06 10:05:59,097 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E04Fragmentos\src\test\resources
+2024-05-06 10:05:59,383 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:59,402 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-05-06 10:05:59,417 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E06Formularios2\src\test\resources
+2024-05-06 10:05:59,658 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:59,682 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:05:59,693 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E07FechasSinBD\src\test\resources
+2024-05-06 10:05:59,924 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:05:59,937 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:05:59,948 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E08CRUDCompleto\src\test\resources
+2024-05-06 10:06:00,163 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:06:00,186 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:06:00,194 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\ejemplo01holamundo\src\test\resources
+2024-05-06 10:21:53,271 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:21:53,278 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:21:53,282 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E08CRUDCompleto\src\test\resources
+2024-05-06 10:22:10,676 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:22:10,681 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:22:10,684 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E08CRUDCompleto\src\test\resources
+2024-05-06 10:27:53,196 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-06 10:28:13,836 [Worker-2: Launching UD8E08CRUDCompleto - Ud8E08CrudCompletoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:13,860 [Worker-2: Launching UD8E08CRUDCompleto - Ud8E08CrudCompletoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:28:13,913 [Worker-2: Launching UD8E08CRUDCompleto - Ud8E08CrudCompletoApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E08CRUDCompleto\src\test\resources
+2024-05-06 10:28:15,838 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:15,857 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2024-05-06 10:28:15,872 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\Ejemplo03BucleYSwitch\src\test\resources
+2024-05-06 10:28:17,402 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:17,421 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-06 10:28:17,426 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploCrudCompleto\src\test\resources
+2024-05-06 10:28:19,532 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:19,547 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-05-06 10:28:19,553 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFormulariosV1\src\test\resources
+2024-05-06 10:28:20,780 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:20,794 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-05-06 10:28:20,801 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFormulariosV2\src\test\resources
+2024-05-06 10:28:21,921 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:21,934 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-05-06 10:28:21,940 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\EjemploFragmentos\src\test\resources
+2024-05-06 10:28:23,058 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:23,072 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2024-05-06 10:28:23,083 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\PruebasMoisesDoradoProyecto\src\test\resources
+2024-05-06 10:28:24,015 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:24,027 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:28:24,046 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E01HolaMundo\src\test\resources
+2024-05-06 10:28:24,957 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:24,969 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:24,974 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E02OperacionesYCondiciones\src\test\resources
+2024-05-06 10:28:25,812 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:25,825 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2024-05-06 10:28:25,847 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E03BuclesYSwitch\src\test\resources
+2024-05-06 10:28:26,565 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:26,578 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2024-05-06 10:28:26,602 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E04Fragmentos\src\test\resources
+2024-05-06 10:28:27,582 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:27,594 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-05-06 10:28:27,603 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E06Formularios2\src\test\resources
+2024-05-06 10:28:28,523 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:28,536 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:28:28,548 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\UD8E07FechasSinBD\src\test\resources
+2024-05-06 10:28:29,250 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-06 10:28:29,262 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2024-05-06 10:28:29,275 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolsuite4_workspace\ejemplo01holamundo\src\test\resources
