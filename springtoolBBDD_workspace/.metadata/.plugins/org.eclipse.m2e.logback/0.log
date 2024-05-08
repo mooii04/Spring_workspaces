@@ -2845,3 +2845,4 @@
 2024-05-07 14:03:14,269 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-05-07 14:03:14,271 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
 2024-05-07 14:03:14,275 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\dorado.gumoi24_trian\Desktop\Spring_workspaces\springtoolBBDD_workspace\SeguridadEnMemoria\src\test\resources
+2024-05-08 13:03:45,959 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
